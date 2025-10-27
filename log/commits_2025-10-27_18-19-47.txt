@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+46ddcf1 - Oriol, 12 minutes ago : Create log_commits.go to log recent git commits
+e09352e - Oriol, 24 minutes ago : Add test.txt with initial content 'lalala'
+c0c4b6b - Oriol, 29 minutes ago : Add commit logger workflow
