@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+2658da4 - GitHub Actions, 4 days ago : Auto: Add latest commits log
+46ddcf1 - Oriol, 4 days ago : Create log_commits.go to log recent git commits
+e09352e - Oriol, 4 days ago : Add test.txt with initial content 'lalala'
